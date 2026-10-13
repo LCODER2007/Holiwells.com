@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.holiwellsinternational.com/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.holiwellsinternational.com/images/slider-img.jpg</image:loc>
+      <image:title>Holiwells International Mental Health Services</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Page -->
+  <url>
+    <loc>https://www.holiwellsinternational.com/about.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Services Page -->
+  <url>
+    <loc>https://www.holiwellsinternational.com/service.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.holiwellsinternational.com/images/Untitled design (12).png</image:loc>
+      <image:title>HOPMHEPS - Psychoeducation Services</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.holiwellsinternational.com/images/Untitled design (13).png</image:loc>
+      <image:title>HOSAPIS - Substance Abuse Prevention</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.holiwellsinternational.com/images/Untitled design (14).png</image:loc>
+      <image:title>Life Coach Ministry</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog Page -->
+  <url>
+    <loc>https://www.holiwellsinternational.com/blog.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://www.holiwellsinternational.com/contact.html</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

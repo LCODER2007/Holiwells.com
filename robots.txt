@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.holiwellsinternational.com/sitemap.xml
+
+# Disallow unnecessary paths
+Disallow: /js/
+Disallow: /css/*.map
+Disallow: /fonts/
+
+# Allow all images
+Allow: /images/
+
+# Crawl-delay (optional, adjust if needed)
+Crawl-delay: 1
