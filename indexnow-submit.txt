@@ -1,0 +1,13 @@
+# IndexNow - Instant Indexing URLs
+# Submit these URLs to get instant indexing
+
+https://www.holiwellsinternational.com/
+https://www.holiwellsinternational.com/index.html
+https://www.holiwellsinternational.com/about.html
+https://www.holiwellsinternational.com/service.html
+https://www.holiwellsinternational.com/contact.html
+https://www.holiwellsinternational.com/blog.html
+
+# To submit instantly, use IndexNow API:
+# https://www.bing.com/indexnow
+# Or use: https://www.indexnow.org/
